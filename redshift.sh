@@ -26,7 +26,7 @@ case $1 in
       redshift -x
     else
       changeMode "$REDSHIFT" on
-      redshift -O REDSHIFT_TEMP
+      redshift -O "$REDSHIFT_TEMP"
     fi
     ;;
   increase)
