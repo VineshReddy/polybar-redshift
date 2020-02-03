@@ -1,5 +1,10 @@
 # polybar-redshift
 
+## Usage 
+Scroll to increase and decrease temperature
+Left click to toggle redshift on/off
+
+
 Add scripts to ~/.config/polybar/scripts and load module from polybar
 
 ```
