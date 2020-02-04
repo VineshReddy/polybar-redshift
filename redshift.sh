@@ -1,6 +1,6 @@
 #!/bin/sh
 
-envFile=env.sh
+envFile=~/.config/polybar/scripts/env.sh
 changeValue=300
 
 changeMode() {
