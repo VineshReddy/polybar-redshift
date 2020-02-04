@@ -5,8 +5,8 @@ Scroll to increase and decrease temperature <br />
 Left click to toggle redshift on/off
 
 # Configuration 
-Make sure $envFile in redshift.sh points to correct location of env.sh
-Place your script file in ~/.config/polybar/scripts/ or change everywhere you see '~/.config/polybar/scripts/'
+Make sure $envFile in redshift.sh points to correct location of env.sh <br />
+Place your script file in `~/.config/polybar/scripts/` or change everywhere you see `~/.config/polybar/scripts/` in module
 
 
 Add scripts to ~/.config/polybar/scripts and load module from polybar
